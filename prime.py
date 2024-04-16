@@ -5,9 +5,9 @@ def prime(num):
                 print(num,"not prime")
                 break
                 
-        else:
-            print(num,"prime no")
-            break
+            else:
+                print(num,"prime no")
+                break
     else:
         print(num,"not prime")
 prime(5)
